@@ -1,0 +1,78 @@
+Senior Backend Engineer - Platform Team
+
+Company: TechStartup India
+Location: Bangalore, India (Hybrid - 3 days in office)
+Employment Type: Full-time
+
+================================================================================
+ABOUT THE ROLE
+================================================================================
+
+We're looking for a Senior Backend Engineer to join our Platform team. You'll be 
+building and scaling our core infrastructure that powers our fintech products 
+serving millions of users across India.
+
+This is a high-impact role where you'll work on challenging problems including 
+real-time payment processing, fraud detection, and building reliable distributed 
+systems.
+
+================================================================================
+REQUIREMENTS (MUST HAVE)
+================================================================================
+
+• 5+ years of backend development experience
+• Strong proficiency in Python
+• Experience with Django or FastAPI frameworks
+• Solid understanding of PostgreSQL or similar relational databases
+• Experience with Redis or similar caching solutions
+• Experience with AWS or GCP cloud platforms
+• Knowledge of Docker and container orchestration
+• Experience building and consuming RESTful APIs
+• Strong understanding of software design patterns
+• Experience with version control (Git) and CI/CD pipelines
+
+================================================================================
+PREFERRED QUALIFICATIONS (NICE TO HAVE)
+================================================================================
+
+• Experience with Kubernetes
+• Knowledge of message queues (Kafka, RabbitMQ, SQS)
+• Experience with Go or Rust
+• GraphQL experience
+• Terraform or infrastructure as code experience
+• Experience with high-traffic systems (1M+ requests/day)
+• Fintech or payments domain experience
+• Open source contributions
+
+================================================================================
+RESPONSIBILITIES
+================================================================================
+
+• Design and build scalable, reliable backend services
+• Write clean, maintainable, and well-tested code
+• Optimize database queries and system performance
+• Participate in architecture discussions and technical design reviews
+• Mentor junior engineers and conduct code reviews
+• Collaborate with product and frontend teams
+• Implement monitoring, alerting, and observability
+• Participate in on-call rotation for production systems
+
+================================================================================
+WHAT WE OFFER
+================================================================================
+
+• Competitive salary: INR 35-50 LPA based on experience
+• Stock options in a fast-growing startup
+• Health insurance for you and family
+• Learning and development budget
+• Flexible work arrangements
+• Modern tech stack and engineering culture
+
+================================================================================
+ABOUT US
+================================================================================
+
+TechStartup India is a Series B fintech company building the future of digital 
+payments in India. We process over 10 million transactions daily and are backed 
+by top-tier investors. Our engineering team values clean code, thoughtful 
+architecture, and continuous learning.

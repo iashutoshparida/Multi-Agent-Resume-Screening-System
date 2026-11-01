@@ -1,0 +1,32 @@
+Junior Python Developer
+
+Location: Remote (India)
+Type: Full-time
+Experience: 0-2 years
+
+About the Role:
+We're looking for a Junior Python Developer to join our growing team. This is an
+excellent opportunity for freshers or early-career developers to learn and grow.
+
+Requirements:
+- Bachelor's degree in Computer Science or related field
+- Basic knowledge of Python programming
+- Understanding of data structures and algorithms
+- Familiarity with SQL databases
+- Good communication skills
+- Willingness to learn new technologies
+
+Nice to Have:
+- Experience with Django or Flask
+- Knowledge of Git version control
+- Personal projects or internship experience
+- Understanding of REST APIs
+
+Responsibilities:
+- Write Python code under senior developer guidance
+- Fix bugs and write unit tests
+- Document code and processes
+- Participate in code reviews
+- Learn and adopt best practices
+
+Salary: ₹4-8 LPA

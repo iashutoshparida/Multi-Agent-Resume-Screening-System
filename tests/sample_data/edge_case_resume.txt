@@ -1,0 +1,92 @@
+AMIT VERMA
+Software Engineer (Career Transition)
+amit.verma@email.com | +91-7654321098 | Hyderabad, India
+LinkedIn: linkedin.com/in/amitverma | GitHub: github.com/amitverma-dev
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Mechanical engineer transitioning to software development after completing 
+intensive bootcamp and self-study. Strong analytical and problem-solving skills 
+from 8 years in manufacturing. Passionate about building software and eager 
+to apply engineering mindset to tech challenges.
+
+================================================================================
+TECHNICAL SKILLS (NEW - 1 YEAR)
+================================================================================
+Languages:      Python (1 year), JavaScript (6 months), SQL
+Frameworks:     Django (learning), Flask, Express.js (basic)
+Databases:      PostgreSQL, SQLite
+Tools:          Git, VS Code, Postman, Docker (basic)
+Learning:       REST APIs, Data Structures, Algorithms
+
+================================================================================
+PREVIOUS SKILLS (8 YEARS MANUFACTURING)
+================================================================================
+Engineering:    AutoCAD, SolidWorks, MATLAB, Process Optimization
+Management:     Project Management, Team Leadership, Quality Control
+Analysis:       Data Analysis, Root Cause Analysis, Six Sigma
+
+================================================================================
+SOFTWARE PROJECTS (Personal/Bootcamp)
+================================================================================
+
+Inventory Management System | Python, Flask, PostgreSQL
+• Built full-stack web app for tracking warehouse inventory
+• Implemented REST APIs with authentication
+• Deployed on Heroku with CI/CD pipeline
+
+Task Tracker CLI | Python
+• Command-line task management application
+• Used SQLite for data persistence
+• Implemented CRUD operations
+
+E-commerce API | Django REST Framework
+• Built backend API for online store (bootcamp capstone)
+• Implemented product catalog, cart, and order management
+• Added JWT authentication
+
+================================================================================
+MANUFACTURING EXPERIENCE
+================================================================================
+
+SENIOR MANUFACTURING ENGINEER | Tata Motors | Pune, India
+March 2018 - December 2023 (5.5 years)
+
+• Led process optimization projects saving INR 2 crore annually
+• Managed team of 12 technicians on production floor
+• Implemented data-driven quality control measures
+• Reduced defect rate by 35% through root cause analysis
+
+MANUFACTURING ENGINEER | Mahindra & Mahindra | Chennai, India
+June 2015 - February 2018 (3 years)
+
+• Designed manufacturing processes for new product lines
+• Collaborated with cross-functional teams
+• Created technical documentation and SOPs
+
+================================================================================
+EDUCATION
+================================================================================
+
+Full Stack Web Development Bootcamp
+Scaler Academy | 2023 (6 months intensive)
+
+Bachelor of Engineering (Mechanical)
+BITS Pilani | 2011 - 2015
+CGPA: 7.9/10
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+• Python for Everybody - Coursera (2023)
+• CS50 Introduction to Computer Science - Harvard (2023)
+• Six Sigma Green Belt (2019)
+
+================================================================================
+WHY CAREER CHANGE
+================================================================================
+After 8 years in manufacturing, I discovered my passion for programming while 
+automating Excel reports with Python. I completed an intensive bootcamp and 
+have been building projects to solidify my skills. I bring strong analytical 
+thinking, project management experience, and a proven ability to learn quickly.

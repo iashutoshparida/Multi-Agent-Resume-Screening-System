@@ -120,6 +120,14 @@ cp .env.example .env
 # Edit .env and add your GEMINI_API_KEY
 ```
 
+### Tests
+
+```bash
+python -m pytest -q -rs tests
+```
+
+15 unit tests (parsers, validators, agent helpers and the workflow graph) run offline. 4 more call the LLM and are skipped unless an API key is set. GitHub Actions runs the suite on Python 3.11 and 3.12 for every push.
+
 ---
 
 ## 📖 Usage

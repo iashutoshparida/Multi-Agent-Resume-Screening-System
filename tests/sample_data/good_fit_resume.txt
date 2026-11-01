@@ -1,0 +1,90 @@
+RAHUL SHARMA
+Senior Backend Engineer
+rahul.sharma@email.com | +91-9876543210 | Bangalore, India
+LinkedIn: linkedin.com/in/rahulsharma | GitHub: github.com/rahulsharma
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Highly skilled backend engineer with 6+ years of experience building scalable 
+distributed systems. Expert in Python ecosystem with deep knowledge of Django, 
+FastAPI, and microservices architecture. Proven track record of optimizing 
+system performance and leading engineering teams.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+Languages:      Python, Go, JavaScript, SQL, Bash
+Frameworks:     Django, FastAPI, Flask, Celery, SQLAlchemy
+Databases:      PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+Cloud/DevOps:   AWS (EC2, RDS, S3, Lambda, SQS), Docker, Kubernetes, Terraform
+Tools:          Git, Jenkins, GitHub Actions, Prometheus, Grafana, ELK Stack
+Concepts:       REST APIs, GraphQL, Microservices, Event-Driven Architecture,
+                System Design, CI/CD, Test-Driven Development
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+SENIOR BACKEND ENGINEER | Flipkart | Bangalore, India
+August 2021 - Present (3+ years)
+
+• Led the redesign of order processing system handling 500K+ daily transactions
+• Implemented event-driven architecture using Kafka reducing system coupling
+• Optimized PostgreSQL queries resulting in 60% improvement in response times
+• Built real-time inventory sync system using Redis and WebSockets
+• Mentored team of 5 engineers, conducted code reviews and design discussions
+• Established CI/CD pipelines using GitHub Actions and ArgoCD
+• Technologies: Python, Django, FastAPI, PostgreSQL, Redis, Kafka, Kubernetes
+
+BACKEND ENGINEER | Swiggy | Bangalore, India  
+March 2019 - July 2021 (2.5 years)
+
+• Developed RESTful APIs for delivery partner management system
+• Built notification service handling 2M+ daily push notifications
+• Implemented caching strategies using Redis reducing DB load by 40%
+• Created automated testing framework with 85% code coverage
+• Collaborated with mobile teams to design efficient API contracts
+• Technologies: Python, Django, PostgreSQL, Redis, AWS, Docker
+
+SOFTWARE ENGINEER | TCS Digital | Chennai, India
+June 2017 - February 2019 (1.5 years)
+
+• Developed backend services for banking client's digital transformation
+• Built data pipeline for processing financial transactions
+• Created REST APIs consumed by web and mobile applications
+• Participated in Agile ceremonies and sprint planning
+• Technologies: Python, Flask, MySQL, RabbitMQ
+
+================================================================================
+EDUCATION
+================================================================================
+
+Bachelor of Technology in Computer Science
+Indian Institute of Technology, Madras | 2013 - 2017
+CGPA: 8.4/10
+
+================================================================================
+CERTIFICATIONS
+================================================================================
+• AWS Solutions Architect Associate (2023)
+• Kubernetes Administrator (CKA) (2022)
+• MongoDB Certified Developer (2021)
+
+================================================================================
+NOTABLE PROJECTS
+================================================================================
+
+Open Source Contribution - FastAPI Toolkit
+• Created popular FastAPI extension with 500+ GitHub stars
+• Provides standardized patterns for building production APIs
+
+Real-time Analytics Dashboard
+• Built streaming analytics platform processing 100K events/minute
+• Used Kafka, Flink, and ClickHouse for real-time aggregations
+
+================================================================================
+ACHIEVEMENTS
+================================================================================
+• Received "Engineering Excellence" award at Flipkart (2023)
+• Speaker at PyCon India 2022 - "Building Scalable APIs with FastAPI"
